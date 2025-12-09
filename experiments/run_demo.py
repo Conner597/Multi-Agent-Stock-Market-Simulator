@@ -1,12 +1,4 @@
 
-"""
-Convenience script to run the default demo scenario with plotting enabled.
-
-Equivalent to:
-
-    python main.py --scenario demo --episodes 10 --max-steps 200 --plot
-"""
-
 import subprocess
 import sys
 from pathlib import Path
