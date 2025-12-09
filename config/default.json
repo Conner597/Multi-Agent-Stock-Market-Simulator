@@ -1,0 +1,8 @@
+{
+  "scenario": "demo",
+  "episodes": 10,
+  "max_steps": 200,
+  "seed": 42,
+  "output_dir": "results",
+  "plot": true
+}
